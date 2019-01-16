@@ -32,13 +32,13 @@ ms.custom: intune-azure
 
 [!INCLUDE [azure_portal](./includes/azure_portal.md)]
 
-The **Restart** device action causes the device you choose to be restarted. The device owner isn't automatically notified of the restart, and they might lose work.
+The **Restart** device action causes the device you choose to be restarted. The end user isn't automatically notified of the restart, and they might lose work.
 
 ## Supported platforms
 
 - Windows - Supported on Windows 8.1 and later
 - Windows Phone - Supported on Windows Phone 8.1 and later
-- Android kiosk devices - Supported
+- Android Device Owner - Supported
 - iOS - Supported
 
     > [!Note]  
